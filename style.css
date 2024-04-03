@@ -1,0 +1,140 @@
+body{
+    background-color: #333333;
+    color:rgb(30, 5, 5);
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bolder;
+    color: lawngreen;
+ }
+ h1{
+     margin-top: 0%;
+     text-align: CENTER;
+     font-family:'Times New Roman', Times, serif;
+     font-style: italic;
+     color:lawngreen;
+     font-size: XXX-LARGE;
+ }
+ h3{
+    color: rgb(162, 247, 4);
+    font-family: 'Courier New', Courier, monospace;
+ }
+ .box{
+     height: 156px;
+     width: 156px;
+     border: solid rgb(255, 255, 255) 2px;
+     background-image: url('https://free-3dtextureshd.com/wp-content/webpc-passthru.php?src=https://free-3dtextureshd.com/wp-content/uploads/2023/10/White-marble-texture-background-free-download-high-resolution-6-preview-1.jpg&nocache=1');
+     display: grid;
+     grid-template-columns: auto auto auto;
+ }
+ #main{
+     height: 480px;
+     width: 480px;
+     border: solid rgb(7, 6, 6) 4px;
+     display: flex;
+     flex-direction: row;
+     margin-left: 30%;
+     margin-top: -1%;
+ }
+ .cell{
+     height: 50px;
+     width: 50px;
+     border: solid rgb(15, 12, 12) 1px;
+     text-align: center;
+     background-color: #333333;
+     text-align: center;
+     font-size: x-large;
+     font-weight: bold;
+ }
+ input{
+     height: 45px;
+     width: 44px;
+     border: none;
+     text-align: center;
+     font-size: x-large;
+     font-weight: bold;
+     background-image: url('https://st2.depositphotos.com/1855189/9190/i/450/depositphotos_91903614-stock-photo-grunge-metal-golden-nameplate-element.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     color: rgb(5, 4, 4);
+ }
+ button{
+     height: 70px;
+     width: 200px;
+     font-size: x-large;
+     font-weight: bold;
+     font-style: italic;
+
+     color: rgba(116, 195, 26, 0.046);
+     position: absolute;
+     cursor: pointer;
+ }
+ #start{
+     top: 26%;
+     left: 5%;
+     color: #333333;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     background-image: url('https://free-3dtextureshd.com/wp-content/webpc-passthru.php?src=https://free-3dtextureshd.com/wp-content/uploads/2023/10/White-marble-texture-background-free-download-high-resolution-6-preview-1.jpg&nocache=1');
+ }
+ #replay{
+     top: 45%;
+     left: 5%;
+     color: #333333;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     background-image: url('https://free-3dtextureshd.com/wp-content/webpc-passthru.php?src=https://free-3dtextureshd.com/wp-content/uploads/2023/10/White-marble-texture-background-free-download-high-resolution-6-preview-1.jpg&nocache=1');
+ }
+ #answer{
+     top: 65%;
+     left: 5%;
+     color: #333333;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     background-image: url('https://free-3dtextureshd.com/wp-content/webpc-passthru.php?src=https://free-3dtextureshd.com/wp-content/uploads/2023/10/White-marble-texture-background-free-download-high-resolution-6-preview-1.jpg&nocache=1');
+ }
+ 
+ #game_type{
+     position: absolute;
+     top: 24%;
+     left: 75%;
+     
+ }
+ 
+ .label{
+     height: 15px;
+     width: 15px;
+     cursor:wait;
+     color: rgb(195, 246, 11);
+     font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ #help{
+     left: 0%;
+     top: 150%;
+     color: #333333;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     background-image: url('https://free-3dtextureshd.com/wp-content/webpc-passthru.php?src=https://free-3dtextureshd.com/wp-content/uploads/2023/10/White-marble-texture-background-free-download-high-resolution-6-preview-1.jpg&nocache=1');
+ }
+ #lives{
+     position: absolute;
+     top: 13%;
+     left: 72%;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     color: rgb(185, 245, 6);
+     font-weight: bold;
+     font-size: x-large;
+ }
+ 
+ #timer{
+     top: 10%;
+     position: absolute;
+     left: 3%;
+     font-size: x-large;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+     color: rgb(185, 245, 6);
+     font-weight: bold;
+     
+ }
+
+
+ 
+ 
